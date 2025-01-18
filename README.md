@@ -4,22 +4,15 @@
              height="160" width="150">
     </div>
 
-<h1 align="center">Hi 👋, I'm Farhan Dika</h1>
+<h1 align="center">Hello, I'm Farhan Dika</h1>
 <h3 align="center">A frontend developer from SMKN 2 Sukabumi</h3>
 
 
 
 
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
-
-- 🌱 I’m currently learning **Laravel and ReactJs**
-
 - 👨‍💻 All of my projects are available at [https://uiahan.github.io/ahan/#home](https://uiahan.github.io/ahan/#home)
-
-- 💬 Ask me about **Whatevere :D**
-
 - 📫 How to reach me **farhandikaalsani@gmail.com**
-
 - ❤️ Fun fact **I love Airin Nirmalawati**
 
 <h3 align="left">Connect with me:</h3>
