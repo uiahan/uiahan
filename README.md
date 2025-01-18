@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Farhan Dika</h1>
 <h3 align="center">A frontend developer from SMKN 2 Sukabumi</h3>
 
-<img src="https://media.giphy.com/media/3o7aD4DfvCu7CdnH7S/giphy.gif">
+<div style="text-align: center;">
+        <img src="http://media.giphy.com/media/a6pzK009rlCak/giphy.gif" 
+             alt="Centered GIF" 
+             style="max-width: 50%; max-height: 50%;">
+    </div>
+
 
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
 
