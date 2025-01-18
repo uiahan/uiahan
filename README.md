@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://id.images.search.yahoo.com/images/view;_ylt=AwrtibEL44tnKLAavg_NQwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzZiMGUzMDY0MWQxY2U3NjFkNTk0NTVhOTQ3OTVkZTY1BGdwb3MDNTMEaXQDYmluZw--?back=https%3A%2F%2Fid.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dasa%2Bmitaka%26type%3DE210ID714G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D53&w=1125&h=1125&imgurl=i.pinimg.com%2Foriginals%2Ff3%2F9e%2F18%2Ff39e1895e3e764f3f4af056b1f96d772.png&rurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F610097080788993586%2F&size=706KB&p=asa+mitaka&oid=6b0e30641d1ce761d59455a94795de65&fr2=piv-web&fr=mcafee&tt=%23+Asa+Mitaka+-+icon+%7C+A+viagem+de+chihiro+haku%2C+Personagens+de+anime+...&b=0&ni=21&no=53&ts=&tab=organic&sigr=_Rs2yhgE_eNH&sigb=HUKVjjLPuBOH&sigi=zQ0pSUGGJiV.&sigt=.Hw.UJys81ou&.crumb=7rKufq4M7xC&fr=mcafee&fr2=piv-web&type=E210ID714G0)" height="35" alt="linkedin logo"  />
 </div>
 
 ###
