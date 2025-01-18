@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from SMKN 2 Sukabumi</h3>
 
 <div align="center">
-        <img src="http://media.giphy.com/media/a6pzK009rlCak/giphy.gif" 
+        <img src="[http://media.giphy.com/media/a6pzK009rlCak/giphy.gif](https://i.gifer.com/Awch.gif)" 
              alt="Centered GIF" 
              height="180" width="150">
     </div>
