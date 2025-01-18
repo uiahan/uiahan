@@ -4,7 +4,7 @@
 <div align="center">
         <img src="http://media.giphy.com/media/a6pzK009rlCak/giphy.gif" 
              alt="Centered GIF" 
-             height="30" width="12">
+             height="300" width="120">
     </div>
 
 
