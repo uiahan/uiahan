@@ -3,7 +3,7 @@
 
 
         <img src="http://media.giphy.com/media/a6pzK009rlCak/giphy.gif" 
-             alt="Centered GIF" align="center" 
+             alt="Centered GIF"
              style="max-width: 50%; max-height: 50%;">
 
 
