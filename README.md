@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Dika</h1>
 <h3 align="center">A frontend developer from SMKN 2 Sukabumi</h3>
 
-<img src="https://media.giphy.com/media/3o7aD4DfvCu7CdnH7S/giphy.gif" alt="GIF Example">
+<img src="https://media.giphy.com/media/3o7aD4DfvCu7CdnH7S/giphy.gif">
 
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
 
