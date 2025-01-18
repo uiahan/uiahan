@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Farhan Dika</h1>
-<h3 align="center">A frontend developer from SMKN 2 Sukabumi</h3>
-
 <div align="center">
         <img src="https://i.gifer.com/Awch.gif" 
              alt="Centered GIF" 
-             height="180" width="150">
+             height="160" width="150">
     </div>
+
+<h1 align="center">Hi 👋, I'm Farhan Dika</h1>
+<h3 align="center">A frontend developer from SMKN 2 Sukabumi</h3>
+
+
 
 
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
