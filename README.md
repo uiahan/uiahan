@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
 - 👨‍💻 All of my projects are available at [https://uiahan.github.io/ahan](https://uiahan.github.io/ahan)
 - 📫 How to reach me **farhandikaalsani@gmail.com**
-- ❤️ Fun fact **I love Airin Nirmalawati**
+- ❤️ Fun fact **I felt in love with neiyuung**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uiahan&show_icons=true&locale=en&layout=compact" alt="uiahan" /></p>
 
