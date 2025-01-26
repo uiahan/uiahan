@@ -4,6 +4,7 @@
              height="160" width="150">
     </div>
 <h2 align="center">Hello 🧸, I'm Farhan Dika a Junior Programmer</h2>
+
 # 💫 About Me:
 - 🔭 I’m currently working on [MB CORP (Maju Bersama)](https://github.com/RPL-Produksi)
 - 👨‍💻 All of my projects are available at [https://uiahan.github.io/ahan](https://uiahan.github.io/ahan)
