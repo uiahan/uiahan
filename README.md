@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/e4a3a893-57f6-4755-894f-6d39219f0e72)![image](https://github.com/user-attachments/assets/4f212f53-99c7-45e2-978b-963e4dbea765)<div align="center">
         <img src="https://i.gifer.com/Awch.gif" 
              alt="Centered GIF" 
              height="160" width="150">
@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
 - 👨‍💻 All of my projects are available at [https://uiahan.github.io/ahan](https://uiahan.github.io/ahan)
 - 📫 How to reach me **farhandikaalsani@gmail.com**
+- ❤️ Fun fact **I fall in love with neng**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uiahan&show_icons=true&locale=en&layout=compact" alt="uiahan" /></p>
 
