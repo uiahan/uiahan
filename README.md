@@ -1,11 +1,11 @@
-<div style="margin-left: 3rem;">
+<div style="margin-left: 20px;">
     <img src="https://i.gifer.com/Awch.gif" 
          alt="Centered GIF" 
          height="160" width="150">
 </div>
 
-<h2 style="margin-left: 3rem;">Hello 🧸, I'm Farhan Dika</h2>
-<h3 style="margin-left: 3rem;">A Frontend Developer from SMKN 2 Sukabumi</h3>
+<h2 style="margin-left: 20px;">Hello 🧸, I'm Farhan Dika</h2>
+<h3 style="margin-left: 20px;">A Frontend Developer from SMKN 2 Sukabumi</h3>
 
 - 🔭 I’m currently working on [MB CORP (Maju Bersama)](https://github.com/RPL-Produksi)
 - 👨‍💻 All of my projects are available at [https://uiahan.github.io/ahan](https://uiahan.github.io/ahan)
