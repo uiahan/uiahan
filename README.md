@@ -7,7 +7,7 @@
 <h2 align="center">Hello 🧸, I'm Farhan Dika</h1>
 <h3 align="center">A Frontend Developer from SMKN 2 Sukabumi</h3>
 
-- 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
+- 🔭 I’m currently working on [MB CORP (Maju Bersama)](https://github.com/RPL-Produksi)
 - 👨‍💻 All of my projects are available at [https://uiahan.github.io/ahan](https://uiahan.github.io/ahan)
 - 📫 How to reach me **farhandikaalsani@gmail.com**
 
