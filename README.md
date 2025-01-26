@@ -4,7 +4,7 @@
              height="160" width="150">
     </div>
 
-<h2 align="center">Hello 🐻, I'm Farhan Dika</h1>
+<h2 align="center">Hello 🧸, I'm Farhan Dika</h1>
 <h3 align="center">A Frontend Developer from SMKN 2 Sukabumi</h3>
 
 - 🔭 I’m currently working on [Rpl Produksi](https://github.com/RPL-Produksi)
