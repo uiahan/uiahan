@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4a3a893-57f6-4755-894f-6d39219f0e72)![image](https://github.com/user-attachments/assets/4f212f53-99c7-45e2-978b-963e4dbea765)<div align="center">
+<div align="center">
         <img src="https://i.gifer.com/Awch.gif" 
              alt="Centered GIF" 
              height="160" width="150">
