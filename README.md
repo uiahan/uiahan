@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://i.gifer.com/Awch.gif" 
+        <img src="https://i.gifer.com/Awch.gif](https://media.tenor.com/i0etD7OfeawAAAAM/kita-bocchi-the-rock.gif" 
              alt="Centered GIF" 
              height="160" width="150">
     </div>
