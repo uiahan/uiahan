@@ -1,7 +1,7 @@
 <div align="center">
         <img src="https://media.tenor.com/i0etD7OfeawAAAAM/kita-bocchi-the-rock.gif" 
              alt="Centered GIF" 
-             height="160" width="150">
+             height="170" width="100">
     </div>
 <h2 align="center">Hello 🧸, I'm Farhan Dika a Fullstack Programmer</h2>
 
