@@ -6,7 +6,7 @@
 <h2 align="center">Hello 🧸, I'm Farhan Dika a Fullstack Programmer</h2>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Linkbee](https://linkbee-portofolio-822667930744.asia-southeast1.run.app)
+- 🔭 I’m currently working on [Linkbee](https://linkbee.id)
 - 👨‍💻 All of my projects are available at [Ahan Portofolio](https://uiahan.github.io/ahan-portofolio)
 - 📫 How to reach me **farhandikaalsani@gmail.com**
 # 💻 Tech Stack:
