@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Linkbee<br>- 👨‍💻 All of my projects are available at Portofolio<br>- 📫 How to reach me farhandikaalsani@gmail.com</p>
+<p align="left">- 🔭 I’m currently working on [LinkBee](https://linkbee.id/)<br>- 👨‍💻 All of my projects are available at [Portofolio](https://uiahan.github.io/ahan-portofolio/)<br>- 📫 How to reach me [farhandikaalsani@gmail.com](mailto:farhandikaalsani@gmail.com)</p>
 
 ###
 
