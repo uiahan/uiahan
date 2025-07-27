@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Fullstack Web Developer | Ikuyo Kita❤️</h2>
+<h2 align="center">Fullstack Web Developer</h2>
 
 ###
 
