@@ -17,7 +17,7 @@
 ###
 
 <p align="left">
-  • 👨‍💻 All of my projects are available at <a href="ahan.my.id" target="_blank"><strong>Portofolio</strong></a><br>
+  • 👨‍💻 All of my projects are available at <a href="[ahan.my.id](https://ahan.my.id/)" target="_blank"><strong>ahan.my.id</strong></a><br>
   • 📫 How to reach me <a href="mailto:farhandikaalsani@gmail.com"><strong>farhandikaalsani@gmail.com</strong></a>
 </p>
 
